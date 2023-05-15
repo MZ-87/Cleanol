@@ -1,6 +1,6 @@
 # Cleanol & Aquatechno Service
 
-Site for the company, producing equipment for robotic car-washers, Belarus.
+Website for the company, producing equipment for robotic car-washers, Belarus.
 
 ## Description
 
